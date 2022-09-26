@@ -4,7 +4,8 @@ This is a FPS Zombie Shooting game in a valley surrounded by small hills, waterf
 
 ## Screenshots
 
-<img src="screenshot/signup.png" width="700px" />
-<img src="screenshot/newboard.png" width="700px" />
-<img src="screenshot/newtask.png" width="700px" />
-<img src="screenshot/fullproject.png" width="700px" />
+<img src="screenshot/1.png" width="700px" />
+<img src="screenshot/2.png" width="700px" />
+<img src="screenshot/3.png" width="700px" />
+<img src="screenshot/4.png" width="700px" />
+<img src="screenshot/5.png" width="700px" />
